@@ -1,6 +1,5 @@
 # AutoCYP (Programa Semi-Automático de Copiar y Pegar) v0.1 
- Hecho por Bryan Glot Fong - 1 DAM con ayuda del profesorado
- Es Un pequeño programa donde introduces datos y muestra por pantalla esos datos más otros datos
+ Hecho por Bryan Glot Fong - 1 DAM con ayuda del profesorado; es un pequeño programa donde introducimos datos y muestra por pantalla esos datos más una estructura predefinida
 
 ## RECOMENDACIONES:
 OPCIONAL
